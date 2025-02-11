@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 12:57:14</sys_created_on>
+        <sys_id>9e8dc257836b1210cba454b6feaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1521469_sn_empperformance.x_1521469_sn.empperformance_user</sys_name>
+        <sys_package display_value="FirstScopedGlobalApp" source="x_1521469_sn">523ad8db83231210cba454b6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FirstScopedGlobalApp">523ad8db83231210cba454b6feaad34b</sys_scope>
+        <sys_security_acl display_value="x_1521469_sn_empperformance">1a8dc257836b1210cba454b6feaad375</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9e8dc257836b1210cba454b6feaad391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 12:57:14</sys_updated_on>
+        <sys_user_role display_value="x_1521469_sn.empperformance_user" name="x_1521469_sn.empperformance_user">358d0257836b1210cba454b6feaad3a9</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
