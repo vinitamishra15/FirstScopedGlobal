@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7d68b99b83e71210cba454b6feaad3f0" extends="task" label="EmpOnboarding" max_length="40" name="x_1521469_sn_emponboarding" type="collection">
+        <element label="Job Title" max_length="200" name="job_title" type="string"/>
+        <element label="Employee Name" max_length="100" name="employee_name" type="string"/>
+    </element>
+</database>
